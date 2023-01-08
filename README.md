@@ -1,7 +1,7 @@
 ## Hi, Welcome to my github! 👋
 
 I am a software engineer and a Certified ScrumMaster® (CSM®).  
-I have 4+ years of experience in software engineering and a bachelor's degree in Computer Engineering.
+I have 6+ years of experience in software engineering and a bachelor's degree in Computer Engineering.
 
 # Favorite Technologies
 - Back-end: Spring framework(Hibernate, security, jpa, etc) / Express  / REST APIs / High-level scalable System Design | Node JS.
